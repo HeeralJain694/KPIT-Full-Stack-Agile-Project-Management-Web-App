@@ -18,6 +18,7 @@ import {
 import { CSS } from '@dnd-kit/utilities';
 import { Card, CardContent } from '../ui/card';
 import { Badge } from '../ui/badge';
+import { Button } from '../ui/button';
 import api from '../../api/axios';
 import { toast } from 'sonner';
 import { Calendar, User, MoreHorizontal, GripVertical } from 'lucide-react';
