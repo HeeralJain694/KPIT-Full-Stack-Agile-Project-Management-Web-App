@@ -2,6 +2,8 @@
 
 A lightweight web-based Agile Project Management tool designed for small teams to plan, track, and manage work using a simple hierarchy: Project → User Stories → Tasks.
 
+## Live Demo
+
 ## Tech Stack
 - **Frontend**: React, Vite, Tailwind CSS, shadcn/ui, dnd-kit (for Kanban drag & drop).
 - **Backend**: Node.js, Express, TypeScript, Zod (Validation), node-cron (Async jobs).
