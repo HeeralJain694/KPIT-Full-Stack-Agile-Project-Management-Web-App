@@ -5,6 +5,9 @@ A lightweight web-based Agile Project Management tool designed for small teams t
 ## Live Demo
 https://kpit-full-stack-agile-project-manag.vercel.app/
 
+## Walkthrough Video
+https://youtu.be/kLgUqrCqDp4?si=AyMfsRPATTmGKhV5
+
 ## Tech Stack
 - **Frontend**: React, Vite, Tailwind CSS, shadcn/ui, dnd-kit (for Kanban drag & drop).
 - **Backend**: Node.js, Express, TypeScript, Zod (Validation), node-cron (Async jobs).
